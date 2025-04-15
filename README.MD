@@ -1,4 +1,4 @@
-# Solvify Tech Practical
+# book-management-system-interview-task
 
 This project is a GraphQL-based server for managing a library of books. It provides functionalities to query, add, update, and delete books. Below is a detailed overview of the project, its features, database details, and steps to run it.
 
@@ -57,7 +57,7 @@ This project is a GraphQL-based server for managing a library of books. It provi
 
    ```bash
    git clone https://github.com/parth-283/book-management-system-interview-task.git
-   cd Solvify_Tech_Practicle
+   cd book-management-system-interview-task
    ```
 
 2. **Install Dependencies**:
@@ -170,4 +170,3 @@ mutation {
 ## License
 
 This project is licensed under the MIT License.
-# book-management-system-interview-task
