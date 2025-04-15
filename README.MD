@@ -56,7 +56,7 @@ This project is a GraphQL-based server for managing a library of books. It provi
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/parth-283/book-management-system-interview-task.git
    cd Solvify_Tech_Practicle
    ```
 
